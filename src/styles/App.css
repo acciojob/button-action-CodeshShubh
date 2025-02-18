@@ -1,1 +1,10 @@
 /* Your CSS code here. */
+
+.App{
+    .show{
+        display: block;
+    }
+    .hide{
+        display: none;
+    }
+}
